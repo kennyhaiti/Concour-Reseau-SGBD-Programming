@@ -7,8 +7,11 @@ d’informaticiens à l’IHSI. Le concours se base sur 3 les domaines suivants 
 
 Ce programme doit permettre à l’administrateur du concours d’effectuer les opérations suivantes sur les candidats :
 A. Enregistrer un candidat dans son fichier respectif.
+
 B. Afficher tous les candidats du concours sur les 3 domaines. 
-C. Afficher les informations complètes sur le lauréat des lauréats (plus grande moyenne obtenue parmi les candidats) du concours. 
+
+C. Afficher les informations complètes sur le lauréat des lauréats (plus grande moyenne obtenue parmi les candidats) du concours.
+
 D. Afficher la liste des candidats suivant un domaine saisi par l’utilisateur. 
 E. Afficher les informations sur les 4 premiers lauréats par ordre de moyenne. 
 F. Supprimer tous les candidats dont leur moyenne est en dessous de 50.
